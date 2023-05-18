@@ -1,97 +1,76 @@
-- title: General Information
+- title: Informações Gerais
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nome
+      value: Hektor Dannyel Vieira Brasil
+    - name: Data de nascimento
+      value: 22/07/1994
+    - name: Idiomas
+      value: Português, Inglês
 
-- title: Education
+- title: Educação
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bacharel
+      institution: Univeridade Federal do Paraná
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: 'TCC: Engenharia de características para a precificação residencial em Curitiba'
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - A proposta do trabalho era de modelar o preço de imóveis da cidade de Curitiba utilizando dados estruturados (características físicas) e não estruturados (descrição do anúncio) extraídos de um site de anúncios de vendas de imóveis.
 
-- title: Experience
+- title: Experiência
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Cientista de Dados
+      institution: Kantar Ibope Media
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Análise de clusters na pesquisa com foco em padrões comportamentais no consumo de mídia
+        - Análise estatística de métricas de audiência
+        - Automatização de processos recorrentes em Shiny
+    - title: Cientista de Dados
+      institution: dunnhumby
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Desenvolvimento e manutenção de algoritmos para processamentos recorrentes de dados para a distribuição de ofertas de marketing personalizadas de uma rede farmacêutica
+        - Análise estatística dos resultados de testes desenvolvidos para melhoria da experiência do cliente
+        - Análise estatística da eficiência e acurácia da alocação de ofertas personalizadas
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Cientista de Dados
+      institution: Junto Seguros
+      year: 2021
       description:
+        - Parte da equipe responsável pelo desenvolvimento de soluções analíticas para melhorar o desenvolvimento do negócio, utilizando de Machine Learning e modelos estatísticos.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Estatístico
+      institution: Junto Seguros
+      year: 2019 - 2020
+      description:
+        - Ajuste e manutenção de modelos preditivos
+        - Projeção de métricas atuariais para provisão
+        - Automatização de processos atuariais
+        - Limpeza, compilação e manutenção de bases de dados
+        - Desenvolvimento Shiny
 
-- title: Open Source Projects
+    - title: Estatístico
+      institution: TechSolution
+      year: 2019
+      description:
+        - Detecção de incidentes de qualidade em veículos Renault cobertos por garantia
+        - Desenvolvimento Shiny
+        - Desenvolvimento e manutenção de algoritmos para relatórios recorrentes
+        - Limpeza, compilação e manutenção de bases de dados
+        - Análise estatística de incidentes registrados em veículos Renault fabricados na América Latina
+
+- title: Consultoria estatística
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Estatístico
+      year: 2019 - Presente
+      description: Eu realizo consultorias estatísticas para pesquisadores de diversas áreas e níveis de graduação.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Outros interesses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Roleplaying games, jogos eletrônicos, mitologia grega, gastronomia
